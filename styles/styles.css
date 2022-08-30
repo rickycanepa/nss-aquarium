@@ -1,0 +1,12 @@
+.quote {
+    margin-left: 25%;
+    margin-right: 10%;
+    display: flex;
+    width: 30rem;
+}
+.fishquote {
+    display: flex;
+}
+.fish {
+    display: flex;
+}
