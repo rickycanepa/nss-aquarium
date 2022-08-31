@@ -6,7 +6,12 @@
 }
 .fishquote {
     display: flex;
+    border: 1px dotted black;
 }
 .fish {
+    display: grid;
+}
+.facts {
     display: flex;
+    border: 1px dotted black;
 }
